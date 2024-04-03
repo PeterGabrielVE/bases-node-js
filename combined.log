@@ -1,8 +1,0 @@
-{"level":"info","message":"message","service":"user-service"}
-{"level":"info","message":"Hola mundo","service":"user-service"}
-{"level":"info","message":"Hola mundo","service":"user-service"}
-{"level":"error","message":"Esto es algo malo","service":"user-service"}
-{"level":"info","message":"Hola mundo","service":"user-service"}
-{"at":"2024-04-03T13:44:41.918Z","level":"error","message":"Esto es algo malo","service":"user-service"}
-{"level":"info","message":"Hola mundo","service":"user-service","timestamp":"2024-04-03T13:47:05.928Z"}
-{"at":"2024-04-03T13:47:05.935Z","level":"error","message":"Esto es algo malo","service":"user-service","timestamp":"2024-04-03T13:47:05.935Z"}
