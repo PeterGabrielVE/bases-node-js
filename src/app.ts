@@ -29,10 +29,11 @@ const { buildLogger } = require('./plugins');
 // console.log({ john });
 
 
-const logger = buildLogger('app.js');
+/*const logger = buildLogger('app.js');
 
 logger.log('Hola mundo');
-logger.error('Esto es algo malo');
+logger.error('Esto es algo malo');*/
 
+export const name: string = 'Fernando';
 
-
+console.log(name)
